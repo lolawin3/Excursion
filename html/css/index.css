@@ -1,4 +1,4 @@
-.image{font-family: verdana;
+body {font-family: verdana;
       background-color: black;
       color: white;
       text-align: center;}
@@ -9,8 +9,10 @@ h1{font-size: 50px;
 h2{font-weight: 300;
    font-size: 42px;}
 
-#places{font-size: 21px;
-        color: Gray;}
-
 .link{color: Aquamarine;
       font-size: 16px;}
+
+p{font-size: 21px;
+  color: Gray;}
+
+.footer{text-align: right;}
